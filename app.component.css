@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(248, 10, 10);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+.cancelbtn {
+ color: black;
+  width: auto;
+  padding: 10px 18px;
+  background-color: rgba(10, 6, 247, 0.067);
+}
